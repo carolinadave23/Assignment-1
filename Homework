@@ -1,1 +1,12 @@
+1.1.3
+1. How do assemblers and linkers work together?
+  An assembler is a utility program that converts source code programs from assembly language into machine language.
+  A linker is a utility program that combines individual files created by an assembler into a single executable program.
 
+3. What is meant by a one to one relationship when comparing high level language to machine language?
+  Assembly language has a one to one relationship with machine language, meaning that assembly language instruction corresponds
+  to a single machine language instruction. High level languages, such as Python, C++, and Java, have a one to many relationship with
+  assembly language and machine language. A single statement in C++, for example, expands into multiple assembly language or machine
+  language instructions.
+
+8. 
