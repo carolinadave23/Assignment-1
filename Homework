@@ -9,4 +9,15 @@
   assembly language and machine language. A single statement in C++, for example, expands into multiple assembly language or machine
   language instructions.
 
-8. 
+8. Do you suppose type checking on pointer variables is stronger (stricter) in assembly language or in C and C++?
+
+
+12. Translate X=(Y*4)+3 to assembly language
+      mov eax, Y  ;move Y to the EAX register
+      add eax, 4  ;add 4 to the EAX register
+      mov ebx, 3  ;move 3 to the EBX register
+      imul ebx    ;multiply EAX by EBX
+      mov X, eax  ;move EAX to X
+
+1.2.1
+2. Why 
