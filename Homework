@@ -56,48 +56,48 @@
 
 1.7.1
 1. In an 8-bit binary number, which is the most significant bit (MSB)?
-
+    The bit on the left
 2. What is the decimal representation of each of the following unsigned binary integers?
-  a.) 00110101
-  b.) 10010110
-  c.) 11001100
+  a.) 00110101 = 53
+  b.) 10010110 = 150
+  c.) 11001100 = 204
 3. What is the sum of each pair of binary integers?
-  a.) 10101111+11011011
-  b.) 10010111+11111111
-  c.) 01110101+10101100
+  a.) 10101111+11011011 = 10001010
+  b.) 10010111+11111111 = 10010110
+  c.) 01110101+10101100 = 00100001
 4. Calculate binary 00001101 minus 00000111.
-
+      00000110
 5. How many bits are used by each of the following data types?
-  a.) word
-  b.) doubleword
-  c.) quadword
-  d.) double quadword
+  a.) word = 8
+  b.) doubleword = 32
+  c.) quadword = 64
+  d.) double quadword = 128
 6. What is the minumum number of binary bits needed to represent each of the following unsigned decimal integers?
-  a.) 4095
-  b.) 65534
-  c.) 42319
+  a.) 4095 = 12
+  b.) 65534 = 16
+  c.) 42319 = 16
 7. What is the hexadecimal representation of each of the following binary numbers?
-  a.) 0011 0101 1101 1010
-  b.) 1100 1110 1010 0011
-  c.) 1111 1110 1101 1011
+  a.) 0011 0101 1101 1010 = 35DA
+  b.) 1100 1110 1010 0011 = CEA3
+  c.) 1111 1110 1101 1011 = FEDB
 8. What is the binary representation of each of the following hexadecimal numbers?
-  a.) 0126F9D4
-  b.) 6ACDFA95
-  c.) F69BDC2A
+  a.) 0126F9D4 = 0000 0001 0010 0110 1111 1001 1101 0100
+  b.) 6ACDFA95 = 0110 1010 1100 1101 1111 1010 1001 0101
+  c.) F69BDC2A = 1111 0110 1001 1011 1101 1100 0010 1010
 9. What is the unsigned decimal representation of each of the following hexadecimal integers?
-  a.) 3A
-  b.) 1BF
-  c.) 1001
+  a.) 3A = 58
+  b.) 1BF = 447
+  c.) 1001 = 4097
 10. What is the unsigned decimal representation of each of the following hexadecimal integers?
-  a.) 62
-  b.) 4B3
-  c.) 29F
+  a.) 62 = 98
+  b.) 4B3 = 1203
+  c.) 29F = 671
 11. What is the 16-bit hexadecimal representation of each of the following signed decimal integers?
-  a.) -24
-  b.) -331
+  a.) -24 = E8
+  b.) -331 = EB5
 12. What is the 16-bit hexadecimal representation of each of the following signed deciaml integers?
-  a.) -21
-  b.) -45
+  a.) -21 = 
+  b.) -45 = 
 13. The following 16-bit hexadecimal numbers represent signed integers. Convert each to decimal.
   a.) 6BF9
   b.) C123
