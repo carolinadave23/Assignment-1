@@ -96,8 +96,8 @@
   a.) -24 = E8
   b.) -331 = EB5
 12. What is the 16-bit hexadecimal representation of each of the following signed deciaml integers?
-  a.) -21 = 
-  b.) -45 = 
+  a.) -21 = EB
+  b.) -45 = D3
 13. The following 16-bit hexadecimal numbers represent signed integers. Convert each to decimal.
   a.) 6BF9 = 
   b.) C123 = 
