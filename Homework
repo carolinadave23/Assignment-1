@@ -139,7 +139,7 @@
 1.7.2
 4. Write a function that receives an integer. The function must return a string containing the hexadecimal representation of
     the integer.
-
+  
 
 Extra Credit 1.4.2
 1. Describe the following boolean expression: XvY
